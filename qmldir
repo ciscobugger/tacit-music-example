@@ -1,0 +1,21 @@
+singleton Library Library.qml
+singleton Player Player.qml
+singleton Nav Nav.qml
+Jobs Jobs.qml
+Cover Cover.qml
+PlayingMark PlayingMark.qml
+LibraryRow LibraryRow.qml
+SongList SongList.qml
+LibraryPage LibraryPage.qml
+PlayerBar PlayerBar.qml
+AlbumHeader AlbumHeader.qml
+ArtistHeader ArtistHeader.qml
+AlbumList AlbumList.qml
+PlayingPage PlayingPage.qml
+LyricsPage LyricsPage.qml
+ArtistsPage ArtistsPage.qml
+ArtistPage ArtistPage.qml
+AlbumsPage AlbumsPage.qml
+AlbumPage AlbumPage.qml
+SongsPage SongsPage.qml
+RecentPage RecentPage.qml
